@@ -1,0 +1,9 @@
+<div>
+  <h1>%name%</h1>
+  <div>
+    %pins%
+    <br>
+    %pin_form%
+  </div>
+</div>
+<hr>

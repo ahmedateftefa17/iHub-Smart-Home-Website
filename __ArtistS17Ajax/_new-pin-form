@@ -1,0 +1,19 @@
+<h4>Add new pin</h4>
+<div class="row">
+  <div class="col-lg-2"></div>
+  <div class="form-group col-lg-3 floating-label-form-group controls">
+    <label>PIN Name</label>
+    <input type="text" class="form-control" placeholder="PIN Name" id="new-pin-name-%room_id%">
+    <p class="help-block"></p>
+  </div>
+  <div class="col-lg-1"></div>
+  <div class="form-group col-lg-3 floating-label-form-group controls">
+    <label>PIN Number</label>
+    <input type="text" class="form-control" placeholder="PIN Number" id="new-pin-num-%room_id%">
+    <p class="help-block"></p>
+  </div>
+  <div class="form-group col-lg-1">
+    <button type="submit" class="btn btn-success btn-lg" id="new-pin-btn" value="%room_id%">Add PIN</button>
+  </div>
+  <div class="col-lg-2"></div>
+</div>
